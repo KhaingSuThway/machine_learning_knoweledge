@@ -1,3 +1,3 @@
 # machine_learning_knoweledge
 This repository contains basic concepts and programs related to machine learning. I have tested and explained these concepts based on my understanding and what I have learned.
-![alt text]([http://url/to/img.png](https://www.bing.com/images/create/machine-learning-basic-concepts-with-animation/1-65bc7f61f0ea4c9fb5193152a288a6cd?id=RnJJIT98aRFcrmuWlsMg0A%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)https://www.bing.com/images/create/machine-learning-basic-concepts-with-animation/1-65bc7f61f0ea4c9fb5193152a288a6cd?id=RnJJIT98aRFcrmuWlsMg0A%3d%3d&view=detailv2&idpp=genimg&idpclose=1&FORM=SYDBIC)
+![image](https://github.com/KhaingSuThway/machine_learning_knoweledge/assets/89783753/513d5030-37e4-4df8-be38-60447ce990a9)
