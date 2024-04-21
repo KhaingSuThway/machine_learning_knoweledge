@@ -3,7 +3,7 @@ This repository contains basic concepts and programs related to machine learning
 
 
 ### What is machine learning?
-Do you know the Disney cartoon Tarzan? Of course, you do! Do you remember when Jane taught Tarzan the names of different things in the jungle? Well, we are doing something similar when we teach our machines (computers, mobile phones, IoT devices) using machine learning. We are like Jane and the machines are like Tarzan. 🌴
+Do you know the Disney cartoon Tarzan? Of course, you do! Do you remember when Jane taught Tarzan the names of different things in the jungle? Well, we are doing something similar when we teach our machines (computers, mobile phones, IoT devices) using machine learning. We are like Jane and the machines are like Tarzan. 
 
 In machine learning, there are different ways of teaching the machines. Here are some of them:
 
